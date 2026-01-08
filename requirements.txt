@@ -1,0 +1,6 @@
+# Google GenAI SDK for Gemini API function calling
+# Tested with version 1.57.0
+google-genai>=1.50.0
+
+# Environment variable management
+python-dotenv>=1.0.0
