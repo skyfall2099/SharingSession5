@@ -4,3 +4,6 @@ google-genai>=1.50.0
 
 # Environment variable management
 python-dotenv>=1.0.0
+
+# MCP (Model Context Protocol) SDK for MCP Server demo
+mcp>=1.0.0
