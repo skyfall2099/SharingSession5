@@ -1,6 +1,6 @@
 # Environment variables (contains API keys)
 .env
-nul
+.claude/settings.local.json
 
 # Python
 __pycache__/
